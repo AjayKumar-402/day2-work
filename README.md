@@ -35,4 +35,8 @@ print ("helo")
 ### task insert a code of helloo in
 `
 #include<stdio.h>
+int main ();
+{
 printf ("hello world");
+}
+`
