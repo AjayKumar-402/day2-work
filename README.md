@@ -53,4 +53,4 @@ return 0;
 
 ![image link](https://github.com/AjayKumar-402/day2-work/blob/master/sunset.jpg)
 ### inserting video
-[![vedio]()](https://www.youtube.com/watch?v=Qah9sSIXJqk)
+[![vedio](https://img.youtube.com/vi/Qah9sSIXJqk/0.jpg)](https://www.youtube.com/watch?v=Qah9sSIXJqk)
