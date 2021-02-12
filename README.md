@@ -1,2 +1,5 @@
 # day2-work
-markdown syntax ..........
+## heading2
+### heading 3
+###### Heading 6
+
