@@ -22,6 +22,6 @@ _*ece*_
 1. ece
 2. cse
 3. eee 
- 1. civil
- 2. mech
+    1. civil
+    2. mech
  
