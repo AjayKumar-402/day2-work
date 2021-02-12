@@ -18,3 +18,10 @@ _*ece*_
 >> fksnn
 >>> kjfnikedwcfm
 >>>> rnfnefimk
+### ordered list
+1. ece
+2. cse
+3. eee 
+ 1. civil
+ 2. mech
+ 
