@@ -43,3 +43,7 @@ return 0;
 ```
 ### inserting urls
 [markdown sheet](https://www.markdownguide.org/cheat-sheet/) 
+- college website link
+[college link](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
+- gmail link
+[gmail click heree](	info@kits-anna.com)
