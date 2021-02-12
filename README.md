@@ -33,3 +33,6 @@ _*ece*_
 print ("helo")
 ```
 ### task insert a code of helloo in
+`
+#include<stdio.h>
+printf ("hello world");
